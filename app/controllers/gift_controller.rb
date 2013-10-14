@@ -1,2 +1,0 @@
-class GiftController < ApplicationControlleriu
-end
